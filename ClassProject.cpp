@@ -1,5 +1,6 @@
 // Text based adventure game
-// Computer Science Class project
+// COSC 1337
+// Team 3 Project 
 
 #include <iostream>
 #include <string>
